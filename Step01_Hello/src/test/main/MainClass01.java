@@ -8,5 +8,6 @@ public class MainClass01 {
 		System.out.println("으엑");
 		Car car1=new Car();
 		car1.drive();
+		System.out.println("으앙");
 	}
 }
